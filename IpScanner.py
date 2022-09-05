@@ -11,5 +11,4 @@ def Miscript():
 Miscript()
 
 #pip install emoji
-#pip install gethostbyname
 #pip install colorama
